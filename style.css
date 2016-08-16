@@ -1,0 +1,18 @@
+body{
+	background-color: #996633;
+}
+h1{
+	color: blue;
+
+}
+
+#centrar{
+	width: 700px;
+	margin: 0 auto;
+
+}
+ol{
+	font-size: 14px;
+	font-family: Arial;
+	
+}
